@@ -112,7 +112,7 @@ const CONFIG = {
     },
   ],
   publications: [
-    {
+    //{
     //   title: 'Publication Title',
     //   conferenceName: '',
     //   journalName: 'Journal Name',
